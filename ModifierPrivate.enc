@@ -1,0 +1,15 @@
+/*
+    	Nama	: Muh. Akbar Ghazaly
+	Stambuk : 13020180002
+	
+*/
+
+class ModifierPrivate{
+   
+    private String language = "Java";
+    
+    public String getLanguage(){
+        return language;
+    }
+}
+
